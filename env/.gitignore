@@ -1,3 +1,5 @@
 env/
-*pycache*
-*cache*
+__pycache__/
+*.pyc
+.zappa/
+EOF
